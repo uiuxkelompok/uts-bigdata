@@ -9,6 +9,8 @@ Kelas : 6B-BI
 <br>
 Tampilan google colab:
 <br>
+<br>
+<br>
 <img width="1917" height="926" alt="berhasil simpan" src="https://github.com/user-attachments/assets/25dbe32a-1943-46e9-955d-aafd887e220f" />
 <br>
 <br>
