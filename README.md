@@ -4,7 +4,7 @@ Nama : Desmala Anggraeni
 <br>
 Nim : 14022300082
 <br>
-Kelas : 6B-BI
+Kelas : 6B-BIS
 <br>
 Tampilan google colab:
 <br>
