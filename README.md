@@ -1,6 +1,5 @@
 # UTS Big Data (Google Colab)
 ## Analisis Sentimen Aplikasi Clash of Clans
-<br>
 Nama : Desmala Anggraeni
 <br>
 Nim : 14022300082
