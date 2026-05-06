@@ -1,5 +1,5 @@
-# uts-bigdata (google colab)
-Analisis Sentimen Aplikasi Clash of Clans
+# UTS Big Data (Google Colab)
+## Analisis Sentimen Aplikasi Clash of Clans
 <br>
 <br>
 <img width="1917" height="926" alt="berhasil simpan" src="https://github.com/user-attachments/assets/25dbe32a-1943-46e9-955d-aafd887e220f" />
